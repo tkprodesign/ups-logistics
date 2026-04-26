@@ -14,6 +14,7 @@ What it does:
 - Creates a PR with `gh pr create`.
 - Enables auto-merge with your selected strategy (`squash`, `merge`, or `rebase`).
 
+
 Requirements:
 - GitHub CLI installed (`gh`).
 - `gh` authenticated (`gh auth login`).
